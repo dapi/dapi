@@ -1,6 +1,9 @@
 I build tools that take agent-assisted development from issue and context to
 reviewed code and green CI.
 
+I also co-maintain [react-trello](https://github.com/rcdexta/react-trello),
+with 142 contributions to the 2k+ star React Kanban library.
+
 ## Core projects
 
 - [Memory Bank](https://github.com/dapi/memory-bank) — preserves context, decisions, and engineering rules between agent sessions
